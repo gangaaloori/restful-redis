@@ -1,0 +1,4 @@
+demo\docker\RedisRestController.class
+demo\docker\RedisEntity.class
+demo\docker\RedisDAO.class
+demo\docker\Application.class
